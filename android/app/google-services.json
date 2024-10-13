@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "177555612532",
+    "project_id": "chatapp-6cb67",
+    "storage_bucket": "chatapp-6cb67.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177555612532:android:ba46ce038a18cddbb64221",
+        "android_client_info": {
+          "package_name": "com.chatt.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY0rU3KOiZYMhSu1mt0eFqmKJcee_e_aA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177555612532:android:94b83a7b2b024e8eb64221",
+        "android_client_info": {
+          "package_name": "com.example.somnia_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY0rU3KOiZYMhSu1mt0eFqmKJcee_e_aA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
